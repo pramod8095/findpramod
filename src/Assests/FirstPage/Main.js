@@ -74,7 +74,7 @@ export default function Main(){
                 style={{
                     boxShadow:'1px 1px 10px rgba(223, 230, 233,1.0), 10px 10px 30px 10px rgba(34, 112, 147,1.0)',
                 }}>
-                    <Card.Img variant="top" src={projects} />
+                    <Card.Img variant="top" src={projects}/>
                     <Card.Body>
                     <Card.Title>Projects</Card.Title>
                     <Card.Text>
@@ -93,7 +93,7 @@ export default function Main(){
                 style={{
                     boxShadow:'1px 1px 10px rgba(223, 230, 233,1.0), 10px 10px 30px 10px rgba(34, 112, 147,1.0)',
                 }}>
-                    <Card.Img variant="top" src={awards} />
+                    <Card.Img variant="top" src={awards}/>
                     <Card.Body>
                     <Card.Title>Accomplishments/Awards</Card.Title>
                     <Card.Text>
