@@ -37,7 +37,6 @@ export default function Main(){
                         }}>Pramod K, Consultant at Allstate</Card.Title>
                      
                         <Card.Text style={{
-                            fontFamily: 'Dancing Script',
                             fontSize: '30px',
                             resize: 'both',
                             overflow: 'auto'
@@ -53,7 +52,6 @@ export default function Main(){
            <div style={{
                marginTop:'20px',
                marginLeft:'1%',
-               fontFamily:'Dancing Script',
                padding:'100px',  
                fontSize:'20px'             
            }}>
@@ -66,7 +64,7 @@ export default function Main(){
                     <Card.Body>
                     <Card.Title>Let me introduce myself </Card.Title>
                     <Card.Text>
-                       i'm a react developer in Allstate and have 3.5 years of exprience in frontend developement, worked on many projects that involve complex and simple changes. 
+                       I'm a react developer in Allstate and have 3.5 years of exprience in frontend developement, worked on many projects that involve complex and simple changes. 
                     </Card.Text>
                     </Card.Body>
                 </Card>
@@ -78,7 +76,7 @@ export default function Main(){
                     <Card.Body>
                     <Card.Title>Projects</Card.Title>
                     <Card.Text>
-                        5 Major project in the span of 3.5, this includes creation of webpage from scrach.<br/>
+                        5 Major project in the span of 4 years, this includes creation of webpage from scrach.<br/>
                         Worked in Agile and Involving in daily meetings Key
                         Responsibilities Handled. <br/>
                         Handling different types of issues with suitable code
