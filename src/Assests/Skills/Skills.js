@@ -3,9 +3,10 @@ import SkillBar from 'react-skillbars'
 import './Skills.css'
 import circle from '../Images/circle.png'
 const SKILLS = [
+    
     {
-      "type": "Java",
-      "level": 70,
+      "type": "Git-hub",
+      "level": 75
     },
     {
       "type": "React",
@@ -13,7 +14,7 @@ const SKILLS = [
     },
     {
       "type": "Javascript",
-      "level": 60
+      "level": 70
     },
     {
       "type": "CSS",
